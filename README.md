@@ -1,6 +1,5 @@
 
-![Hello World!(1)](https://user-images.githubusercontent.com/55101797/91097932-2e68fe80-e626-11ea-9966-e709a6920f86.png)
-
+![Hello World!(1)](https://user-images.githubusercontent.com/55101797/91098668-87856200-e627-11ea-8045-2158c4f1e4e9.jpg)
 
 <!--
 **Sergioq7777/Sergioq7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
